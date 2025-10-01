@@ -3,16 +3,6 @@
 
 **Quiz App** is a Python-Django-based application designed for creating, managing, and taking quizzes. This application provides a user-friendly platform for administrators to add questions and quizzes and for users to participate and test their knowledge.
 
----
-
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Warning_icon.svg/1200px-Warning_icon.svg.png"  height="270px" width="300px">
-
-## This project is under development
-
-</div>
-
 # Screenshots
 
 ![img1](https://github.com/user-attachments/assets/03fae598-a4ca-454a-98ec-27560a195b88)
